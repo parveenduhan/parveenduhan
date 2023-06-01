@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parveenduhan
-- 👀 I’m interested in VLSI archtectures for signal processing and machine learning , Computer architecture.
-- 🌱 I’m currently learning and practicing verilog .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer architecture.
+- 🌱 I’m currently practicing different assemblies.
+- 💞️ I’m looking to collaborate on simulator/emulator developement.
 - 📫 Reach me on --> parveen dot choudhary dot com at_the_rate gmail dot com". 
 
 <!---
